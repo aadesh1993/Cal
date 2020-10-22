@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:background="#f8f8f8"
+    android:orientation="vertical"
+    android:paddingTop="4dp"
+    android:paddingBottom="4dp">
+
+    <LinearLayout
+        android:id="@+id/child_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/transparent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <com.github.lzyzsd.circleprogress.DonutProgress
+                android:id="@+id/donut_progress"
+                custom:donut_progress="30"
+                custom:donut_inner_bottom_text_size="4sp"
+                custom:donut_text_size="4sp"
+                android:layout_width="40dp"
+                custom:donut_circle_starting_degree="270"
+                custom:donut_finished_stroke_width="2sp"
+                custom:donut_unfinished_stroke_width="2sp"
+                custom:donut_show_text="false"
+                android:layout_height="40dp"/>
+
+            <TextView
+                android:layout_gravity="center"
+                android:id="@+id/dayLabel"
+                android:layout_width="@dimen/day_label_size_events_enabled"
+                android:layout_height="@dimen/day_label_size_events_enabled"
+                android:gravity="center"
+                android:textSize="13sp" />
+
+            <ImageView
+                android:id="@+id/dayIcon"
+                android:layout_width="2dp"
+                android:layout_height="2dp"
+                android:layout_marginTop="1dp"
+                android:layout_marginBottom="4dp"
+                android:scaleType="centerInside"
+                android:visibility="visible" />
+
+        </FrameLayout>
+    </LinearLayout>
+
+    <View
+        android:id="@+id/divider"
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/nextMonthDayColor"
+        android:visibility="gone" />
+
+</LinearLayout>
+

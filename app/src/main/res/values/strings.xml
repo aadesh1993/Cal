@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">PlanEd</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pin_content_desc">PIN input field</string>
+    <string name="confirm_students_batch">Select Batch To Confirm fees of newly joined students:-</string>
+
+    <string name="book">font/avenirbook.ttf</string>
+    <string name="light">font/avenirlight.ttf</string>
+    <string name="ltsdbook">font/avenirltstdbook.otf</string>
+    <string name="ltsdlight">font/avenirltslight.otf</string>
+    <string name="ltsdroman">font/avenirltstdroman.otf</string>
+    <string name="roman">font/avenirroman.ttf</string>
+
+    <string name="current_date">June, 2016</string>
+    <string name="add_event">ADD CALENDAR EVENT</string>
+    <string name="sun">S</string>
+    <string name="mon">M</string>
+    <string name="tue">T</string>
+    <string name="wed">W</string>
+    <string name="thu">T</string>
+    <string name="fri">F</string>
+    <string name="sat">S</string>
+    <string name="last_date">30</string>
+    <string name="addattachment">Add Attachment</string>
+    <string name="attachment2">Attachment</string>
+    <string name="material_calendar_monday">M</string>
+    <string name="material_calendar_tuesday">T</string>
+    <string name="material_calendar_wednesday">W</string>
+    <string name="material_calendar_thursday">T</string>
+    <string name="material_calendar_friday">F</string>
+    <string name="material_calendar_saturday">S</string>
+    <string name="material_calendar_sunday">S</string>
+    <array name="material_calendar_day_abbreviations_array">
+        <item>@string/material_calendar_sunday</item>
+        <item>@string/material_calendar_monday</item>
+        <item>@string/material_calendar_tuesday</item>
+        <item>@string/material_calendar_wednesday</item>
+        <item>@string/material_calendar_thursday</item>
+        <item>@string/material_calendar_friday</item>
+        <item>@string/material_calendar_saturday</item>
+    </array>
+    <array name="material_calendar_months_array">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </array>
+    <string name="material_calendar_today_button">Today</string>
+    <string name="material_calendar_positive_button">OK</string>
+    <string name="material_calendar_negative_button">Cancel</string>
+    <string name="previous_day">Previous Day</string>
+    <string name="next_day">Next Day</string>
+    <string name="add_event1">Add Event</string>
+    <string name="edit_event1">Edit Event</string>
+    <string name="scroll_to">Scroll To…</string>
+    <string name="edit_event_title">Title</string>
+    <string name="edit_event_location">Location</string>
+    <string name="edit_event_date">Date</string>
+    <string name="edit_event_start_time">Start Time</string>
+    <string name="edit_event_end_time">End Time</string>
+    <string name="edit_event_color">Color</string>
+    <string name="edit_event_delete">Delete</string>
+    <string name="scroll_target_time">Time…</string>
+    <string name="scroll_target_first_event_top">First Event Top</string>
+    <string name="scroll_target_first_event_bottom">First Event Bottom</string>
+    <string name="scroll_target_last_event_top">Last Event Top</string>
+    <string name="scroll_target_last_event_bottom">Last Event Bottom</string>
+    <string name="or_continue">Or Continue With</string>
+    <string name="you_created_this_group">You created this group</string>
+    <string name="addedyou">added you</string>
+    <string name="okay">Ok</string>
+    <string name="team_topic">team Topics</string>
+    <string name="freelancher">Freelancer Or Consultant</string>
+    <string name="checkspamfolder">Didn’t receive an email? \n Check your spam folder</string>
+    <string name="new_already_verified_text">Verified your email on \n other devices?</string>
+    <string name="relevant">Please enter relevant information to discover the right opportunities.</string>
+    <string name="youhave_multiple">You have multiple active conferences.</string>
+    <string name="one_conference">You have one active conference.</string>
+    <string name="new_video_call">New Video Call</string>
+    <string name="new_audio_call">New Audio Call</string>
+    <string name="please_select_expert_level">Please select expert level</string>
+    <string name="checkconflicts">checkconflicts</string>
+    <string name="sharemeeting">sharemeeting</string>
+    <string name="deletemessage">deletemessage</string>
+    <string name="youareal">You are already in call</string>
+    <string name="conflict1">You are booking this meeting on the overlapping timing of other people.</string>
+    <string name="conflict2">Are you sure you want to book this meeting on the selected time slot?"</string>
+    <string name="deletemeeting">Are you sure you want to delete this meeting?</string>
+    <string name="deletemessage1">Are you sure you want to delete these </string>
+    <string name="deletemessage2"> messages</string>
+    <string name="deletemessage3">Are you sure you want to delete this message?</string>
+    <string name="select_file">select files</string>
+
+    <string name="timetitle">Select Batch Time</string>
+    <string name="timeprefix">>></string>
+    <string name="timesuffix"> &lt;&lt; </string>
+
+
+</resources>

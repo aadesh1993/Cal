@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>    <!--
+		Copyright (C) 2010 Regis Montoya (aka r3gis - www.r3gis.fr)
+
+		This file is part of CSipSimple. CSipSimple is free software: you can
+		redistribute it and/or modify it under the terms of the GNU General
+		Public License as published by the Free Software Foundation, either
+		version 3 of the License, or (at your option) any later version.
+
+		CSipSimple is distributed in the hope that it will be useful, but
+		WITHOUT ANY WARRANTY; without even the implied warranty of
+		MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+		General Public License for more details. You should have received a
+		copy of the GNU General Public License along with CSipSimple. If not,
+		see <http://www.gnu.org/licenses/>.
+	-->
+<resources>
+    <declare-styleable name="FloatLabelLayout">
+        <attr name="floatLabelTextAppearance" format="reference" />
+        <attr name="floatLabelPaddingLeft" format="reference|dimension" />
+        <attr name="floatLabelPaddingRight" format="reference|dimension" />
+        <attr name="floatLabelPaddingTop" format="reference|dimension" />
+        <attr name="floatLabelPaddingBottom" format="reference|dimension" />
+        <!-- The hint to display in the floating label -->
+        <attr name="floatLabelHint" format="reference|string" />
+
+        <!-- <attr name="pstsTabBackground" format="reference" />
+         <attr name="pstsShouldExpand" format="boolean" />
+         <attr name="pstsTextAllCaps" format="boolean" />
+                <attr name="pstsTabSwitch" format="boolean" />
+         <attr name="pstsActivateTextColor" format="color" />
+                 <attr name="pstsDeactivateTextColor" format="color" />
+
+ -->
+    </declare-styleable>
+
+    <declare-styleable name="CalendarView">
+        <attr name="headerColor" format="color" />
+        <attr name="headerLabelColor" format="color" />
+        <attr name="previousButtonSrc" format="integer" />
+        <attr name="forwardButtonSrc" format="integer" />
+        <attr name="todayLabelColor" format="color" />
+        <attr name="selectionColor" format="color" />
+        <attr name="selectionLabelColor" format="color" />
+        <attr name="disabledDaysLabelsColor" format="color" />
+        <attr name="highlightedDaysLabelsColor" format="color" />
+        <attr name="pagesColor" format="color" />
+        <attr name="abbreviationsBarColor" format="color" />
+        <attr name="abbreviationsLabelsColor" format="color" />
+        <attr name="daysLabelsColor" format="color" />
+        <attr name="anotherMonthsDaysLabelsColor" format="color" />
+        <attr name="datePicker" format="boolean" />
+        <attr name="eventsEnabled" format="boolean" />
+        <attr name="swipeEnabled" format="boolean" />
+        <attr name="maximumDaysRange" format="integer" />
+        <attr name="type" />
+    </declare-styleable>
+
+    <attr name="type" format="enum">
+        <enum name="classic" value="0"/>
+        <enum name="one_day_picker" value="1"/>
+        <enum name="many_days_picker" value="2"/>
+        <enum name="range_picker" value="3"/>
+    </attr>
+
+    <declare-styleable name="DayView">
+        <attr name="dividerHeight" format="dimension"/>
+        <attr name="hourDividerColor" format="color"/>
+        <attr name="halfHourDividerColor" format="color"/>
+        <attr name="halfHourHeight" format="dimension"/>
+        <attr name="hourLabelWidth" format="dimension"/>
+        <attr name="hourLabelMarginEnd" format="dimension"/>
+        <attr name="eventMargin" format="dimension"/>
+        <attr name="startHour" format="integer"/>
+        <attr name="endHour" format="integer"/>
+    </declare-styleable>
+
+
+    <declare-styleable name="WeekView">
+        <attr name="firstDayOfWeek" format="enum">
+            <enum name="sunday" value="1" />
+            <enum name="monday" value="2" />
+            <enum name="tuesday" value="3" />
+            <enum name="wednesday" value="4" />
+            <enum name="thursday" value="5" />
+            <enum name="friday" value="6" />
+            <enum name="saturday" value="7" />
+        </attr>
+        <attr name="hourHeight" format="dimension" />
+        <attr name="textSize" format="dimension" />
+        <attr name="eventTextSize" format="dimension" />
+        <attr name="headerColumnPadding" format="dimension" />
+        <attr name="headerRowPadding" format="dimension" />
+        <attr name="columnGap" format="dimension" />
+        <attr name="headerColumnTextColor" format="color" />
+        <attr name="noOfVisibleDays" format="integer" />
+        <attr name="headerRowBackgroundColor" format="color" />
+        <attr name="dayBackgroundColor" format="color" />
+        <attr name="hourSeparatorColor" format="color" />
+        <attr name="todayBackgroundColor" format="color" />
+        <attr name="todayHeaderTextColor" format="color" />
+        <attr name="hourSeparatorHeight" format="dimension" />
+        <attr name="eventTextColor" format="color" />
+        <attr name="eventPadding" format="dimension" />
+        <attr name="headerColumnBackground" format="color" />
+        <attr name="dayNameLength" format="enum">
+            <enum name="length_short" value="1" />
+            <enum name="length_long" value="2" />
+        </attr>
+        <attr name="overlappingEventGap" format="dimension" />
+        <attr name="eventMarginVertical" format="dimension" />
+        <attr name="xScrollingSpeed" format="float" />
+    </declare-styleable>
+
+    <declare-styleable name="WeekHeaderView">
+        <attr name="firstDayOfWeek2" format="enum">
+            <enum name="sunday" value="1" />
+            <enum name="monday" value="2" />
+            <enum name="tuesday" value="3" />
+            <enum name="wednesday" value="4" />
+            <enum name="thursday" value="5" />
+            <enum name="friday" value="6" />
+            <enum name="saturday" value="7" />
+        </attr>
+        <attr name="headerWeekLabelTextSize" format="dimension" />
+        <attr name="headerDayLabelTextSize" format="dimension" />
+        <attr name="headerWeekLabelTextColor" format="color" />
+        <attr name="headerDayLabelNormalTextColor" format="color" />
+        <attr name="headerDayLabelTodayTextColor" format="color" />
+        <attr name="headerBackgroundColor" format="color"/>
+        <attr name="headerColumnGap" format="dimension" />
+        <attr name="headerRowGap" format="dimension" />
+        <attr name="headerPaddingLeft" format="dimension" />
+        <attr name="headerPaddingRight" format="dimension" />
+        <attr name="headerPaddingTop" format="dimension" />
+        <attr name="headerPaddingBottom" format="dimension" />
+        <attr name="headerFocusTextColor" format="color"/>
+        <attr name="headerFocusBackgroundColor" format="color"/>
+        <attr name="headerFocusSameDayBackgroundColor" format="color"/>
+        <attr name="headerFocusSameDayTextColor" format="color"/>
+    </declare-styleable>
+</resources>

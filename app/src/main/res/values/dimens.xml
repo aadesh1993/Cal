@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Animation Values -->
+    <dimen name="secondary_txt_size">14dp</dimen>
+    <dimen name="primary_txt_size">16dp</dimen>
+
+    <dimen name="dgv_overlap_if_switch_straight_line">16dp</dimen>
+
+    <!-- Dialer -->
+
+    <!-- Call Log -->
+
+    <!-- Messages -->
+    <dimen name="minus_five_dp">-5dp</dimen>
+    <dimen name="one_dp">1dp</dimen>
+    <dimen name="two_dp">2dp</dimen>
+    <dimen name="four_dp">4dp</dimen>
+    <dimen name="five_dp">5dp</dimen>
+    <dimen name="seven_dp">7dp</dimen>
+    <dimen name="eight_dp">8dp</dimen>
+    <dimen name="nine_dp">9dp</dimen>
+    <dimen name="ten_dp">10dp</dimen>
+    <dimen name="fifteen_dp">15dp</dimen>
+    <dimen name="sixteen_dp">16dp</dimen>
+    <dimen name="seventeen_dp">17dp</dimen>
+    <dimen name="nineteen_dp">19dp</dimen>
+    <dimen name="twenty_dp">20dp</dimen>
+    <dimen name="twentyone_dp">21dp</dimen>
+    <dimen name="twentytwo_dp">22dp</dimen>
+    <dimen name="thirty_one_dp">31dp</dimen>
+    <dimen name="thirty_two_dp">32dp</dimen>
+    <dimen name="thirtysix_dp">36dp</dimen>
+    <dimen name="thirty_eightdp">38dp</dimen>
+    <dimen name="fourty_dp">40dp</dimen>
+    <dimen name="fourty_two">42dp</dimen>
+    <dimen name="fourty_three">43dp</dimen>
+    <dimen name="fourtyfour_dp">44dp</dimen>
+    <dimen name="forty_five_dp">45dp</dimen>
+    <dimen name="fourtysixdp">46dp</dimen>
+    <dimen name="fortyeight_dp">48dp</dimen>
+    <dimen name="fourty_nine">49dp</dimen>
+    <dimen name="fifty_dp">50dp</dimen>
+    <dimen name="fifty_four">54dp</dimen>
+    <dimen name="fifty_seven">57dp</dimen>
+    <dimen name="sixty_dp">60dp</dimen>
+    <dimen name="sixty_fourdp">64dp</dimen>
+    <dimen name="sixtysix_dp">66dp</dimen>
+    <dimen name="sixty_twodp">62dp</dimen>
+    <dimen name="seventy_dp">70dp</dimen>
+    <dimen name="seventyeight_dp">78dp</dimen>
+    <dimen name="eighty_dp">80dp</dimen>
+    <dimen name="eighty_eightdp">88dp</dimen>
+    <dimen name="ninety_dp">90dp</dimen>
+    <dimen name="hundred_dp">100dp</dimen>
+    <dimen name="hundred_three_dp">103dp</dimen>
+    <dimen name="onehundred_threedp">103dp</dimen>
+    <dimen name="onehundred_sixdp">106dp</dimen>
+    <dimen name="onehundred_eightdp">108dp</dimen>
+    <dimen name="onefourtysix_dp">146dp</dimen>
+    <dimen name="onefourty_eightdp">148dp</dimen>
+    <dimen name="one_fifty_dp">150dp</dimen>
+    <dimen name="onesixtytwo_dp">162dp</dimen>
+    <dimen name="threethirty_eightdp">338dp</dimen>
+    <dimen name="fourhundred">400dp</dimen>
+
+    <!-- chat -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <integer name="google_play_services_version">12451000</integer>
+    <!--<integer name="google_play_services_version">11011000</integer>-->
+    <dimen name="one_twentydp">120dp</dimen>
+
+    <!--Text size-->
+    <dimen name="eleven_dp">11dp</dimen>
+    <dimen name="twelve_dp">12dp</dimen>
+    <dimen name="thirteen_dp">13dp</dimen>
+    <dimen name="fourteen_dp">14dp</dimen>
+    <dimen name="eighteen_dp">18dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="slide_desc">17dp</dimen>
+    <dimen name="desc_padding">25dp</dimen>
+
+
+    <!-- Login screen -->
+
+    <dimen name="imgIcon_htwt">40dp</dimen>
+    <dimen name="precenseIcon_htwt">12dp</dimen>
+    <dimen name="thirty_dp">30dp</dimen>
+    <dimen name="three_dp">3dp</dimen>
+    <dimen name="twenty_five_dp">25dp</dimen>
+    <dimen name="twenty_four_dp">24dp</dimen>
+    <dimen name="twenty_six_dp">26dp</dimen>
+    <dimen name="hun_fourteen">114dp</dimen>
+    <dimen name="hun_ten">110dp</dimen>
+    <dimen name="fifty_six_dp">56dp</dimen>
+    <dimen name="point_fivedp">0.5dp</dimen>
+
+
+    <dimen name="onehundredsix">106dp</dimen>
+    <dimen name="fourtyfour">44dp</dimen>
+    <dimen name="eightyfour">84dp</dimen>
+    <dimen name="ninteen">19dp</dimen>
+    <dimen name="sixty_nine">69dp</dimen>
+    <dimen name="onehundredthree">103dp</dimen>
+
+    <!-- View Profile screen -->
+    <dimen name="header_margin">60dp</dimen>
+
+    <!--new dimension for layout-->
+    <dimen name="sixtyseven_pointeight">67.8dp</dimen>
+    <dimen name="eightyninepointsix">89.6dp</dimen>
+    <dimen name="fourtyonepointseven">41.7dp</dimen>
+    <dimen name="fifty_sevenpointfour">57.4dp</dimen>
+    <dimen name="fifty_sevenpointeight">57.8dp</dimen>
+    <dimen name="sixteen_pointfive">16.5dp</dimen>
+    <dimen name="fourtyonepointthree_dp">41.3dp</dimen>
+    <dimen name="threepointfive">3.5dp</dimen>
+    <dimen name="onepointseven">1.7dp</dimen>
+    <dimen name="twopointeight">2.8dp</dimen>
+    <dimen name="thirtythreedp">33dp</dimen>
+
+    <dimen name="twentysevendp">27dp</dimen>
+    <dimen name="twopointsix_dp">2.6dp</dimen>
+    <dimen name="twentytwo_pointninedp">22.9dp</dimen>
+    <dimen name="twentyfour_pointtwodp">24.2dp</dimen>
+    <dimen name="sixpointonedp">6.1dp</dimen>
+    <dimen name="fourpointonedp">4.1dp</dimen>
+
+
+    <dimen name="twelvepointfive">12.5dp</dimen>
+
+    <dimen name="onetwenty_sevendp">127dp</dimen>
+    <dimen name="twentysix_pointsevendp">26.7dp</dimen>
+    <dimen name="twentyone_pointsevendp">21.7dp</dimen>
+    <dimen name="fourtypointninedp">40.9dp</dimen>
+    <dimen name="eightpoinsevendp">8.7dp</dimen>
+    <dimen name="pointninedp">0.9dp</dimen>
+
+    <dimen name="ninetytwopointtwo_dp">92.2dp</dimen>
+
+    <dimen name="seventytwopointtwo_dp">72.2dp</dimen>
+    <dimen name="seventyfourpointeight_dp">74.8dp</dimen>
+
+    <dimen name="seventeenpointsix">17.6dp</dimen>
+    <dimen name="tweenty_pt_nine_dp">20.9dp</dimen>
+
+    <dimen name="seventeenpointfour">17.4dp</dimen>
+
+    <dimen name="fifteenpointseven_dp">15.7dp</dimen>
+    <dimen name="onetwentyeight_pointsevendp">128.7dp</dimen>
+
+    <dimen name="thirtyonepointthree_dp">31.3dp</dimen>
+
+    <dimen name="fourteenpointeight_dp">14.8dp</dimen>
+
+
+    <dimen name="sixtynine_pointsixdp">69.6dp</dimen>
+    <dimen name="sixtyeight_pointsevendp">68.7dp</dimen>
+    <dimen name="sixtyfour">64dp</dimen>
+    <dimen name="eightysevenpoineight_dp">87.8dp</dimen>
+    <dimen name="ninetypointfour_dp">90.4dp</dimen>
+    <dimen name="twopointone_dp">2.1dp</dimen>
+    <dimen name="fiftytwo_pointtwodp">52.2dp</dimen>
+    <dimen name="fourtythree_pointfivedp">43.5dp</dimen>
+    <dimen name="twentyfour_pointthreedp">24.3dp</dimen>
+    <dimen name="thirtysevenpointfour">37.4dp</dimen>
+    <dimen name="fifteenpointsix_dp">15.6dp</dimen>
+    <dimen name="eightpoinseven_dp">8.7dp</dimen>
+    <dimen name="ninepointseven_dp">9.7dp</dimen>
+    <dimen name="fivepointfourdp">5.4dp</dimen>
+    <dimen name="fourpointfourdp">4.4dp</dimen>
+    <dimen name="fourteenpointfivedp">14.5dp</dimen>
+    <dimen name="thirteenpointfivedp">13.5dp</dimen>
+    <dimen name="forty_fivepointtwo_dp">45.2dp</dimen>
+    <dimen name="threepointfourdp">3.4dp</dimen>
+    <dimen name="twentyone_pointfourdp">21.4dp</dimen>
+    <dimen name="twentysix_pointonedp">26.1dp</dimen>
+    <dimen name="nineteenpointfivedp">19.5dp</dimen>
+    <dimen name="sevenpointeightdp">7.8dp</dimen>
+    <dimen name="tenpointsixdp">10.6dp</dimen>
+    <dimen name="fourtythree_pointeightdp">43.8dp</dimen>
+    <dimen name="one_thirty_eight">138dp</dimen>
+
+
+    <dimen name="fourtyseven_pointeightdp">47.8dp</dimen>
+    <dimen name="twentyeightpointeight">28.8dp</dimen>
+
+    <dimen name="twoninetythree_pointninedp">293.9dp</dimen>
+    <dimen name="sixteen_pt_five">16.5dp</dimen>
+    <dimen name="eighteenpointthree_dp">18.3dp</dimen>
+
+    <dimen name="tweenty_seven_dp">27dp</dimen>
+
+
+    <dimen name="nineteenpointone_dp">19.1dp</dimen>
+
+    <dimen name="threepointthree_dp">3.3dp</dimen>
+
+    <dimen name="zeropointfourdp">0.4dp</dimen>
+
+    <dimen name="twoninetytwo_pointtwodp">292.2dp</dimen>
+    <dimen name="twentytwo_pointsixdp">22.6dp</dimen>
+
+
+    <!-- Common Header White -->
+    <dimen name="back_marginTop">19.1dp</dimen>
+    <dimen name="back_marginLeft">17.4dp</dimen>
+    <dimen name="nine_pt_four_dp">9.4dp</dimen>
+    <dimen name="eleven_pt_one_dp">11.1dp</dimen>
+    <dimen name="sixteenpoint_threedp">16.3dp</dimen>
+    <dimen name="eleven_pt_five">11.5dp</dimen>
+    <dimen name="thirty_five_pointonedp">35.1dp</dimen>
+
+
+    <!-- View Profile screen -->
+    <dimen name="margin_to_header">64.3dp</dimen>
+    <!--<dimen name="margin_to_header">74.24dp</dimen>-->
+    <dimen name="image_size">140.9dp</dimen>
+    <dimen name="profile_name_height">33dp</dimen>
+    <dimen name="profile_name_marginTop">22.6dp</dimen>
+    <dimen name="title_name_height">19dp</dimen>
+    <dimen name="email_name_height">19dp</dimen>
+    <dimen name="RL_below_bottom_padding">41.9dp</dimen>
+    <dimen name="RL_below_left_padding">34.1dp</dimen>
+    <dimen name="RL_below_right_padding">38.1dp</dimen>
+    <dimen name="LL_below_top_padding">10dp</dimen>
+    <dimen name="LL_below_bottom_padding">10dp</dimen>
+    <dimen name="LL_below_left_padding">20dp</dimen>
+    <dimen name="LL_below_right_padding">20dp</dimen>
+    <dimen name="usrimage_size">141dp</dimen>
+    <dimen name="usr_font_marginTop">8.1dp</dimen>
+    <dimen name="pass_font_marginTop">12.3dp</dimen>
+    <dimen name="LL_below_next_marginTop">25.8dp</dimen>
+    <dimen name="network_pdd_left">17dp</dimen>
+    <dimen name="network_pdd_top">10dp</dimen>
+    <dimen name="network_font_marginTop">12.5dp</dimen>
+    <dimen name="cal_font_marginTop">12.1dp</dimen>
+    <dimen name="margin_bottom_profile">50dp</dimen>
+    <dimen name="user_name_marginTop">7.04dp</dimen>
+    <dimen name="user_name_font">20.88dp</dimen>
+
+    <dimen name="list_outerTop">11dp</dimen>
+    <dimen name="group_marginTop">24.27dp</dimen>
+    <dimen name="group_paddingStart">14.7dp</dimen>
+    <dimen name="group_txtHeight">12.27dp</dimen>
+
+    <dimen name="menu_paddingTop">13dp</dimen>
+    <dimen name="RLmenu_MarginTop">8dp</dimen>
+
+    <dimen name="view_marginTop">17dp</dimen>
+    <dimen name="icon_marginTop">14.27dp</dimen>
+    <dimen name="icon_paddingLeft">4.7dp</dimen>
+
+    <dimen name="count_width">22.7dp</dimen>
+    <dimen name="count_marginRight">17.4dp</dimen>
+    <dimen name="count_font">11.22dp</dimen>
+    <dimen name="count_marginTop">11dp</dimen>
+
+
+    <!-- MyProfileNew screen -->
+    <dimen name="tweenty_seven_pt_eight_dp">27.8dp</dimen>
+
+    <dimen name="pro_dt_view_marginTop">30.6dp</dimen>
+    <dimen name="zero_pt_nine">0.9dp</dimen>
+
+    <dimen name="nine_pt_six">9.6dp</dimen>
+
+    <dimen name="two_pt_seven_dp">2.7dp</dimen>
+    <dimen name="pro_det_font_size">14.8dp</dimen>
+    <dimen name="seventeen_pt_five_dp">17.5dp</dimen>
+    <dimen name="sixty_eight_pt_seven_dp">68.7dp</dimen>
+    <dimen name="thirty_four_pt_seven_dp">34.7dp</dimen>
+
+    <string name="six_dp">6dp</string>
+
+    <!-- Action screen -->
+    <dimen name="act_out_marginTop">24.3dp</dimen>
+    <dimen name="act_out_marginBottom">112.2dp</dimen>
+    <dimen name="act_btn_height">112.2dp</dimen>
+
+    <dimen name="six_pt_seven_dp">6.7dp</dimen>
+    <dimen name="twelve_pt_seven_dp">10.7dp</dimen>
+    <dimen name="thirteen_pt_one_dp">13.1dp</dimen>
+    <dimen name="fifteen_pt_one_dp">15.1dp</dimen>
+    <dimen name="fiftypointfourdp">50.4dp</dimen>
+    <!-- Manu screen -->
+    <dimen name="view_using">60dp</dimen>
+
+    <!--1st May 2018 dimension for layout-->
+    <dimen name="sevenpointthreedp">7.3dp</dimen>
+    <dimen name="seven_pt_four_dp">7.4dp</dimen>
+    <dimen name="thirteen_pointninedp">13.9dp</dimen>
+    <dimen name="eightyfive_pointtwodp">85.2dp</dimen>
+    <dimen name="sixtythree_pointfivedp">63.5dp</dimen>
+    <dimen name="tenpoint_twodp">10.2dp</dimen>
+    <dimen name="fourpoint_threedp">4.3dp</dimen>
+    <dimen name="seventysix_pointninedp">76.9dp</dimen>
+    <dimen name="ninetythreedp">93dp</dimen>
+    <dimen name="fourtyfourpointthree">44.3dp</dimen>
+
+    <!-- Email screen -->
+    <dimen name="fifty_pt_four_dp">50.4dp</dimen>
+    <dimen name="thirtyfour_pt_four">34.4dp</dimen>
+    <dimen name="twentyseven_pointfourdp">27.4dp</dimen>
+    <dimen name="thirtyone_pointeightdp">31.8dp</dimen>
+    <dimen name="eightpointfourdp">8.4dp</dimen>
+    <dimen name="twelvepointfourdp">12.4dp</dimen>
+    <dimen name="threethirtysixdp">336dp</dimen>
+    <dimen name="fifty_twodp">52dp</dimen>
+    <dimen name="twentytwo_pointonefivedp">22.15dp</dimen>
+    <dimen name="seventeenpointsevendp">17.7dp</dimen>
+    <dimen name="seventythree_pointtwodp">73.2dp</dimen>
+    <dimen name="thirtypoint_sevendp">30.7dp</dimen>
+    <dimen name="thirtythree_pointthreedp">33.3dp</dimen>
+    <dimen name="fourtynine_pointninedp">49.9dp</dimen>
+    <dimen name="nineteen_pointtwodp">19.2dp</dimen>
+    <dimen name="eighteenpoint_twodp">18.2dp</dimen>
+    <dimen name="fourtyfour_pointeightdp">44.8dp</dimen>
+    <dimen name="eighteenpoint_ninedp">18.9dp</dimen>
+    <dimen name="sixteenpointsevendp">16.7dp</dimen>
+    <dimen name="twentypoint_fivedp">20.5dp</dimen>
+    <dimen name="seventyfivepointsix">75.6dp</dimen>
+    <dimen name="thirty_seven_dp">37dp</dimen>
+    <dimen name="twenty_two_dp">22dp</dimen>
+    <dimen name="twenty_three">23dp</dimen>
+    <!-- Text size-->
+    <dimen name="eleven_sp">11sp</dimen>
+    <dimen name="seventeen_sp">17sp</dimen>
+    <dimen name="thirtysix_sp">36sp</dimen>
+    <dimen name="twentytwo_pointsixsp">22.6sp</dimen>
+    <dimen name="twentyfivesp">25sp</dimen>
+    <dimen name="sixteenpoint_threesp">16.3sp</dimen>
+    <dimen name="groupTitle_font">9.66sp</dimen>
+    <dimen name="title_name_font">14.8sp</dimen>
+    <dimen name="below_font">8sp</dimen>
+    <dimen name="profile_name_font">26.1sp</dimen>
+    <dimen name="tensp">10sp</dimen>
+    <dimen name="email_name_font">12.8sp</dimen>
+    <dimen name="twentyone_pointsevensp">21.7sp</dimen>
+    <dimen name="sevensp">7sp</dimen>
+    <dimen name="sevenpointeightsp">7.8sp</dimen>
+    <dimen name="thirteenpointninesp">13.96sp</dimen>
+    <dimen name="twentysp">20sp</dimen>
+    <dimen name="tweenty_pt_nine_sp">20.9sp</dimen>
+    <dimen name="ninepointsixsp">9.6sp</dimen>
+    <dimen name="seventeenpointfoursp">17.4sp</dimen>
+    <dimen name="eightpoinsevensp">8.7sp</dimen>
+    <dimen name="thirteen_sp">13sp</dimen>
+    <dimen name="fourteenpointeight_sp">14.8sp</dimen>
+    <dimen name="elevenpintthree_sp">11.3sp</dimen>
+    <dimen name="eighteen_sp">18sp</dimen>
+    <dimen name="user_name_font_sp">20.88sp</dimen>
+    <dimen name="fourteen_sp">14sp</dimen>
+    <dimen name="twenty_four_sp">24sp</dimen>
+    <dimen name="twelve_sp">12sp</dimen>
+    <dimen name="sixteen_sp">16sp</dimen>
+    <dimen name="fifteen_sp">15sp</dimen>
+    <dimen name="eight_sp">8sp</dimen>
+    <dimen name="fifteen_pt_five_sp">15.5sp</dimen>
+    <dimen name="nine_sp">9sp</dimen>
+    <dimen name="sixteenpoint_onedp">16.1dp</dimen>
+    <dimen name="sixtyeight_pointtwodp">68.2dp</dimen>
+    <dimen name="ninepoint_onedp">9.1dp</dimen>
+    <dimen name="sixteenpoint_fourdp">16.4dp</dimen>
+    <dimen name="fourtyseven_pointninedp">47.9dp</dimen>
+    <dimen name="twentyfive_pointninedp">25.9dp</dimen>
+    <dimen name="twentyfive_pointthreedp">25.3dp</dimen>
+    <dimen name="thirteenpoint_ninesp">13.9sp</dimen>
+    <dimen name="seventeenpoint_threedp">17.3dp</dimen>
+    <dimen name="fifteenpoint_fourdp">15.4dp</dimen>
+    <dimen name="fifteenpointseven_sp">15.7sp</dimen>
+    <dimen name="seventyonedp">71dp</dimen>
+    <dimen name="twentytwo_pointone">22.1dp</dimen>
+    <dimen name="twentytwo_pointthreedp">22.3dp</dimen>
+    <dimen name="onetwentythree_pointthreedp">123.3dp</dimen>
+    <dimen name="twelvepoint_sixdp">12.6dp</dimen>
+    <dimen name="seventytwodp">72dp</dimen>
+    <dimen name="thirtyone_pointninedp">31.9dp</dimen>
+    <dimen name="eightpoint_ninedp">8.9dp</dimen>
+    <dimen name="ninetyone_pointthreedp">91.3dp</dimen>
+    <dimen name="twentynine_pointonedp">29.1dp</dimen>
+    <dimen name="seventyfivepointseven">75.7dp</dimen>
+    <dimen name="twelvepoint_sixsp">12.6sp</dimen>
+    <dimen name="one_twentytwodp">122dp</dimen>
+    <dimen name="thirtyfourdp">34dp</dimen>
+    <dimen name="eightpoint_twodp">8.2dp</dimen>
+    <dimen name="pointsevendp">0.7dp</dimen>
+    <dimen name="elevenpintthree_dp">11.3dp</dimen>
+    <dimen name="thirtyninedp">39dp</dimen>
+    <dimen name="pointeightdp">0.8dp</dimen>
+    <dimen name="thirteen_pt_one_sp">13.1sp</dimen>
+    <dimen name="fifteenpoint_foursp">15.4sp</dimen>
+    <dimen name="negative_elevendp">-11dp</dimen>
+    <dimen name="negative_eightdp">-8dp</dimen>
+    <dimen name="negative_tendp">-10dp</dimen>
+    <dimen name="eightpointfivesp">8.5sp</dimen>
+    <dimen name="eighteenpoint_sixsp">18.6sp</dimen>
+    <dimen name="thirty_sp">30sp</dimen>
+    <dimen name="tenpoint_fourdp">10.4dp</dimen>
+    <dimen name="onehundredtwo">102dp</dimen>
+    <dimen name="eightynine">89dp</dimen>
+    <dimen name="sixtysevendp">67dp</dimen>
+    <dimen name="eightpointfivedp">8.5dp</dimen>
+    <dimen name="fourtyonedp">41dp</dimen>
+
+    <dimen name="twentytwo_pointfourdp">22.4dp</dimen>
+    <dimen name="oneseventy_threedp">173dp</dimen>
+    <dimen name="oneseventy_eightdp">178dp</dimen>
+    <dimen name="onehundred_sevendp">107dp</dimen>
+    <dimen name="sixtyone_pointfivedp">61.5dp</dimen>
+    <dimen name="sixtythree_dp">63dp</dimen>
+    <dimen name="twentysevenpointthreefive">27.35dp</dimen>
+    <dimen name="twentytwo_pointfoureightdp">22.48dp</dimen>
+    <dimen name="onefourty_ninedp">149dp</dimen>
+    <dimen name="twentyseven_dp">27dp</dimen>\
+    <dimen name="ninetyeight_dp">98dp</dimen>
+    <dimen name="ninety_fivedp">95dp</dimen>
+    <dimen name="fivepointsevendp">5.7dp</dimen>
+    <dimen name="seven.seven_dp">7.7dp</dimen>
+
+    <dimen name="four_hundred">400dp</dimen>
+    <dimen name="three_hundred">300dp</dimen>
+    <dimen name="twentyeighteight">28dp</dimen>
+    <dimen name="twentyeight_sp">28sp</dimen>
+    <dimen name="twenty_sp">20sp</dimen>
+    <dimen name="thirty_eight">38dp</dimen>
+    <dimen name="twentyonedp">21dp</dimen>
+    <dimen name="onefourtyfourdp">144dp</dimen>
+    <dimen name="fourtyfive_dp">45dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+
+    <dimen name="row_height">44dp</dimen>
+    <dimen name="day_label_size_events_enabled">20dp</dimen>
+    <dimen name="day_label_focus_size_events_enabled">34dp</dimen>
+    <dimen name="day_label_size_events_disabled">38dp</dimen>
+    <dimen name="day_label_focus_size_events_disabled">42dp</dimen>
+
+    <dimen name="small_padding1">0.5dp</dimen>
+    <dimen name="small_padding">1dp</dimen>
+    <dimen name="medium_padding">5dp</dimen>
+    <dimen name="large_padding">10dp</dimen>
+    <dimen name="divider_height">1dp</dimen>
+    <dimen name="half_hour_height">50dp</dimen>
+    <dimen name="hour_label_width">65dp</dimen>
+    <dimen name="add_event_button_foreground_size">52dp</dimen>
+    <dimen name="add_event_button_background_size">85dp</dimen>
+    <dimen name="add_event_button_background_bottom_margin">4dp</dimen>
+
+</resources>
